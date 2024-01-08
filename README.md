@@ -31,9 +31,7 @@ Framework Development:
   
   Activities:
     Defining dimensions and measures of interest.
-    
     Structuring the analysis framework for comprehensive insights extraction.
-    
     Following were the analysis aspects created - Geographical Analysis and Host Rating Analysis
 
 ### Step 4
