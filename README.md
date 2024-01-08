@@ -21,8 +21,7 @@ Data Cleaning:
 
   Objective: Address and rectify any inconsistencies, missing values, or anomalies in the dataset.
   
-  Activities:
-    
+  Activities:  
     Identifying issues to be handled like - missing data, data outliers and inconsistencies and data fromat standardizing issues
 
 ### Step 3 
@@ -31,11 +30,8 @@ Framework Development:
   Objective: Establish a structured framework for conducting the analysis based on identified dimensions and measures.
   
   Activities:
-    
     Defining dimensions and measures of interest.
-    
     Structuring the analysis framework for comprehensive insights extraction.
-    
     Following were the analysis aspects created - Geographical Analysis and Host Rating Analysis
 
 ### Step 4
