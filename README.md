@@ -13,8 +13,8 @@ Data Exploration:
   Objective: Gain familiarity with the raw Airbnb listing dataset.
   
   Activities:<br>
-    Initial data loading and inspection.<br>
-    Understanding dataset structure and attributes.<br>
+    *Initial data loading and inspection.<br>
+    *Understanding dataset structure and attributes.<br>
     
 ### Step 2
 Data Cleaning:
