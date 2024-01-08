@@ -22,7 +22,7 @@ Data Cleaning:
   Objective: Address and rectify any inconsistencies, missing values, or anomalies in the dataset.
   
   Activities:  
-    Identifying issues to be handled like - missing data, data outliers and inconsistencies and data format standardizing issues
+    *Identifying issues to be handled like - missing data, data outliers and inconsistencies and data format standardizing issues
 
 ### Step 3 
 Framework Development:
@@ -36,36 +36,42 @@ Framework Development:
 
 ### Step 4
 Geographical Analysis:
+  
   Objective: Analyze and visualize data patterns across different geographies.
-  Sub-Objectives and Activities:
-    Platform Registration Rate Analysis:
-      Yearly and monthly registration trends visualization.
-      Geographical distribution of registration rates.
-    Impact of External Events:
-      Assessing and visualizing the influence of external events on registration rates.
-    Pricing and BNB Type Preferences:
-      Analyzing pricing trends across geographies.
-      Preference analysis for different BNB types.
-    Forecasting:
-      Developing forecasting models for platform registration and pricing trends across geographies.
+  
+  Sub-Objectives and Activities:<br>
+    *Platform Registration Rate Analysis:<br>
+      -Yearly and monthly registration trends visualization.<br>
+      -Geographical distribution of registration rates.<br>
+    *Impact of External Events:<br>
+      -Assessing and visualizing the influence of external events on registration rates.<br>
+    *Pricing and BNB Type Preferences:<br>
+      -Analyzing pricing trends across geographies.<br>
+      -Preference analysis for different BNB types.<br>
+    *Forecasting:<br>
+      Developing forecasting models for platform registration and pricing trends across geographies.<br>
 
 ### Step 5
 Host Rating Analysis:
+
 Objective: Investigate host ratings and their correlations with various factors.
-Sub-Objectives and Activities:
-  Correlation Analysis:
-    Assessing correlations between host ratings and pricing.
-  Profitability Analysis:
-    Identifying and clustering hosts based on profitability metrics like review count and pricing.
-  Dashboard Creation:
-    Designing interactive dashboards showcasing top hosts across geographies and room categories.
+
+Sub-Objectives and Activities:<br>
+  *Correlation Analysis:<br>
+    -Assessing correlations between host ratings and pricing.<br>
+  *Profitability Analysis:<br>
+    -Identifying and clustering hosts based on profitability metrics like review count and pricing.<br>
+  *Dashboard Creation:<br>
+    -Designing interactive dashboards showcasing top hosts across geographies and room categories.<br>
 
 ### Step 6 
 Documentation and Reporting:
+
 Objective: Document the analysis methodologies, findings, and insights for clear communication and reference in the form of presentation and dashboard.
-Activities:
-  Compiling analysis results.
-  Creating detailed documentation and reports highlighting key insights and recommendations.
+
+Activities:<br>
+  *Compiling analysis results.
+  *Creating detailed documentation and reports highlighting key insights and recommendations.
 
 ## Results
 For this project Option 2 was selected and within this option, the NY Airbnb dataset was picked for analysis. Results and analysis of this activity are listed below - 
