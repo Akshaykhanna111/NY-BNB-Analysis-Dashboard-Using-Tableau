@@ -80,9 +80,25 @@ For this project Option 2 was selected and within this option, the NY Airbnb dat
 3. Forecasting the registration and pricing trends -
    * Registration will be increasing for private rooms whereas for homes it will be dropping in next 6 quarters.
    * Pricing will not vary much and continue to be +-3/4 around the last quarter's median value
+4. Registration and Pricing seasonality within a year -
+   * Registration spikes during summers whereas pricing doesn't vary much throughout the year
+5. Pricing variance by zipcodes
+   * Only one zipcode had anomalous median pricing in Staten Islands of 850 rest all were within 150 limit
+6. Correlation heatmap between pricing and ratings -
+   * Customers in Staten Islands are a bit price sensitive, meaning high prices can negatively impact the rating whereas for other neighborhoods no such pattern was observed
+7. K-means clustering -
+   * Using clustering analysis in Tableau hosts were clustered into 4 clusters. Hosts within cluster 2 and 3 were found to be most profitable with high ratings and high pricing (leading to higher commissions for Airbnb)
+8. Top N hosts dynamic report was created (user can input the ranks through parameter filters)
+9. YOY rating growth chart was created - There was a consistent drop (minor) in ratings between 2012 to 2014, which was addressed from 2015 onwards.
+10. Dynamic BNB stats report was created to visualize various measures across geographies and room types.
+11. Finally a dashboard was created for the user to study all the above insights in a single view
 
 ## Challenges 
-(discuss challenges you faced in the project)
+1. Data Recency was till 2015 only 
+2. Geography was limited to NY
+3. For 30% records no ratings were available
 
 ## Future Goals
-(what would you do if you had more time?)
+1. Accumulate more data for analysis
+2. Study patterns across geographies as seasonality, user preferences, macro-economic factors will vary across regions
+3. Take into account the macro-economic factors like inflation, flight prices, weather etc. 
