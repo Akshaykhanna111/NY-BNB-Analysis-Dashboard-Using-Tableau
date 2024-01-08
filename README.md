@@ -8,7 +8,7 @@ The project focuses on analyzing and visualizing data from Airbnb listings. Leve
 
 ## Process
 ### Step 1
-Data Exploration:
+Data Exploration:  
 
   Objective: Gain familiarity with the raw Airbnb listing dataset.
   
