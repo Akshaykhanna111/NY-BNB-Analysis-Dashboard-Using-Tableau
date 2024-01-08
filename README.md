@@ -15,7 +15,6 @@ Data Exploration:
   Activities:  
   
     Initial data loading and inspection.  
-    
     Understanding dataset structure and attributes.
   
 ### Step 2
