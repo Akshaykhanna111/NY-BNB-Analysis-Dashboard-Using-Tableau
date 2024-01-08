@@ -70,13 +70,16 @@ Documentation and Reporting:
 Objective: Document the analysis methodologies, findings, and insights for clear communication and reference in the form of presentation and dashboard.
 
 Activities:<br>
-  *Compiling analysis results.
-  *Creating detailed documentation and reports highlighting key insights and recommendations.
+  *Compiling analysis results.<br>
+  *Creating detailed documentation and reports highlighting key insights and recommendations.<br>
 
 ## Results
 For this project Option 2 was selected and within this option, the NY Airbnb dataset was picked for analysis. Results and analysis of this activity are listed below - 
 1. Registration trend analysis - For certain geographies like Manhattan and Brooklyn, there has been a significant growth in the registration trend on the platform from 2008 to 2015.
-2. Pricing Trend Analysis - Median pricing in Brooklyn, Staten and Queens has been dropping from 2008 to 2015. The magnitude of drop is not very high.
+2. Pricing Trend Analysis - Median pricing across geographies has been dropping, though the magnitude of drop is not very high.
+3. Forecasting the registration and pricing trends -
+   * Registration will be increasing for private rooms whereas for homes it will be dropping in next 6 quarters.
+   * Pricing will not vary much and continue to be +-3/4 around the last quarter's median value
 
 ## Challenges 
 (discuss challenges you faced in the project)
